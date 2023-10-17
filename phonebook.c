@@ -3,5 +3,8 @@
 
 int main(void)
 {
-    
+    double divide_doubles (void)
+    {
+        
+    }
 }
