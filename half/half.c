@@ -30,7 +30,7 @@ float half(float bill, float tax, int tip)
     {
         tax = get_float("Sale Tax Percent: ");
     }
-    while (tax )
+    while (tax < bill; bill = )
 
 
     return 0.0;
