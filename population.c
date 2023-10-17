@@ -3,5 +3,6 @@
 
 int main(void)
 {
+    //Prompt user for a starting number
     
 }
