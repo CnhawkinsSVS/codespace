@@ -4,6 +4,6 @@
 int main(void)
 {
     string name = get_string("what's your name? ");
-    int age = get_string("How old are you? ");
-    int number = get_string(" What's your phone number? \n");
+    int age = get_int("How old are you? ");
+    int  = get_string(" What's your phone number? \n");
 }
