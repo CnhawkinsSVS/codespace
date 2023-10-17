@@ -8,6 +8,6 @@ int main(void)
     string number = get_string("What's your phone number? \n");
 
     {
-        printf()
+        printf("string name"; "int age"; "string number")
     }
 }
