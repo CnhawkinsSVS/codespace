@@ -3,6 +3,6 @@
 
 int main(void)
 {
-    string s = "Name: "; "Age: "; "Phone: ";
-    printf("%s/n, s)
+    string s = "Name: \n"; "Age: \n"; "Phone: \n";
+    printf("%s\n", s);
 }
