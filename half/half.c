@@ -9,6 +9,7 @@ float half(float bill, float tax, int tip);
 int main(void)
 {
     float bill_amount = get_float("Bill before tax and tip: ");
+    do
     {
         
     }
