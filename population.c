@@ -5,6 +5,9 @@ int main(void)
 {
     //Prompt user for a starting # of lamas
     long start = get_int("Start size: ");
+    {
+        for
+    }
 
     //Prompt user for an ending # of lamas
     string goal = get_string("Goal size: ");
