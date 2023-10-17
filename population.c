@@ -4,17 +4,24 @@
 int main(void)
 {
     //Prompt user for a starting # of lamas
-    long start = get_int("Start size: ");
+    int start;
+    do
     {
-        for
+        start = get_int("Starting Size: ");
     }
+    while (start < 9);
 
     //Prompt user for an ending # of lamas
-    string goal = get_string("Goal size: ");
+    int goal;
+    do
+    {
+        goal = get_int("Goal Size: ");
+    }
+    while (goal)
 
     // (Loop) How many years will it take to get to goal?
     // Every year 1/3 lamas born; 1/4 pass away
-    int year = get_int("Years: \n");
+
 
 
 
