@@ -3,5 +3,6 @@
 
 int main(void)
 {
-    string = "Name: ";
+    string s = "Name: "; "Age: "; "Phone: ";
+    printf("%s/n, s)
 }
