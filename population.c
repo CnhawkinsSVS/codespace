@@ -4,10 +4,7 @@
 int main(void)
 {
     //Prompt user for a starting # of lamas
-    int start = get_int("Start size: ");
-    {
-        
-    }
+    long start = get_int("Start size: ");
 
     //Prompt user for an ending # of lamas
     string end = get_string("End size: ");
