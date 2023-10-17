@@ -3,6 +3,5 @@
 
 int main(void)
 {
-    string s = "Name: \n"; "Age: \n"; "Phone: \n";
-    printf("%s\n", s);
+    string get_string
 }
