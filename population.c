@@ -17,7 +17,7 @@ int main(void)
     {
         goal = get_int("Goal Size: ");
     }
-    while (goal)
+    while (goal < start);
 
     // (Loop) How many years will it take to get to goal?
     // Every year 1/3 lamas born; 1/4 pass away
