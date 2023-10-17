@@ -20,10 +20,14 @@ int main(void)
     while (goal < start);
 
     // (Loop) How many years will it take to get to goal?
-    // Every year 1/3 lamas born; 1/4 pass away
     int years = 0;
-    start += start /12;
+    while (start < goal)
+    {
+        start += start /12;
+        years++;
+    }
 
+    printf("Years: %i", years);
 
 
 
