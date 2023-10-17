@@ -3,5 +3,5 @@
 
 int main(void)
 {
-    printf(get_string)
+    string printf()
 }
