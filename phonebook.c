@@ -3,5 +3,5 @@
 
 int main(void)
 {
-    string get_string
+    
 }
