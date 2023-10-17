@@ -3,11 +3,11 @@
 
 int main(void)
 {
-    string name = get_string("what's your name? ");
+    string name = get_string("What's your name? ");
     int age = get_int("How old are you? ");
     string number = get_string("What's your phone number? \n");
 
     {
-        printf("Name is %s. Age is %i. Number is %li \n")
+        printf("Name is %s. Age is %i. Number is %s.",)
     }
 }
