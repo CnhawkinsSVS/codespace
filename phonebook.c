@@ -3,8 +3,5 @@
 
 int main(void)
 {
-    double divide_doubles (void)
-    {
-        
-    }
+    printf(get_string)
 }
