@@ -4,11 +4,7 @@
 int main(void)
 {
     //Prompt user for a starting # of lamas
-    string start = get_string("Starting size: ");
-    {
-        const int n =12;
-        for (int i = 0; i)
-    }
+    int start = 
 
     //Prompt user for an ending # of lamas
     string end = get_string("End size: ");
