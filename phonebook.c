@@ -7,4 +7,7 @@ int main(void)
     int age = get_int("How old are you? ");
     string number = get_string("What's your phone number? \n");
 
+    {
+        printf()
+    }
 }
