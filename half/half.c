@@ -24,7 +24,7 @@ int main(void)
     {
         tax_percent = get_float("Sale Tax Percent: ");
     }
-    while (tax_percen)
+    while (tax_percent < 0 )
 
     int tip_percent = get_int("Tip percent: ");
 
