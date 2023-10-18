@@ -18,7 +18,12 @@ int main(void)
 
     //Tax Percentage
     float tax_percent = get_float("Sale Tax Percent: ");
-    tax_amount = 
+    tax_percent = y;
+    do
+    {
+        tax_percent = get_float("Sale Tax Percent: ");
+    }
+
 
     int tip_percent = get_int("Tip percent: ");
 
