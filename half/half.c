@@ -9,6 +9,7 @@ float half(float bill, float tax, int tip);
 int main(void)
 {
     //Bill Total
+    float bill_amount;
     bill_amount = x;
     do
     {
@@ -17,13 +18,13 @@ int main(void)
     while (bill _amount < 0);
 
     //Tax Percentage
-    float tax_percent = get_float("Sale Tax Percent: ");
+    float tax_percent;
     tax_percent = y;
     do
     {
         tax_percent = get_float("Sale Tax Percent: ");
     }
-
+    while ()
 
     int tip_percent = get_int("Tip percent: ");
 
