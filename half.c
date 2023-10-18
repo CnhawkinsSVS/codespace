@@ -24,5 +24,5 @@ float half(float bill, float tax, int tip)
     float total_2 = bill + tip + tax;
     float half = total_2 / 2;
 
-    return 0.0;
+    return float half;
 }
